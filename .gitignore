@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Test executables and test object files
+test_scanner
+obj_tests/
